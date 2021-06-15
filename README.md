@@ -1,7 +1,7 @@
 # Title
 
 ### BLOG-PAGE
-A Practise Based Static Website bult using MATERIAL-UI .
+A Practise Based Static Website built using MATERIAL-UI .
 
 ## What's Inside
 
